@@ -1,0 +1,1 @@
+GitHub restricts uploading files greater than 100 MB. Unfortunately the training dat in Week 3's Trigger Word Detection assignment is larger than 100 MB. I have compressed the large files and split them in order to keep all data together. Please extract the files before use.
